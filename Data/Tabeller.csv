@@ -1,0 +1,36 @@
+﻿Område;Meter hovedledninger;"Varmetæthed baseret på naturgas- og oliekunder
+[MWh/lbm]";Eksisterende fjernvarmeområde?;Placering;Øonomisk prioritet;Startdato;Slutdato;Rækkefølge;Årstal tilsluttet
+Etape 2;924.13;3.92;Ja;Syd;1;21-12-2024;09-02-2025;1S-EKS;2025
+Etape 0;0;-;Ja;Nord;-;-;-;-;2022
+Etape 6.3;1,182.90;2.56;Ja;Nord;1;04-09-2025;07-11-2025;1N-EKS;2025
+Etape 5.2;230.37;3.79;Ja;Syd;2;09-02-2025;22-02-2025;2S-EKS;2025
+Område 1;456.33;2.55;Ja;Nord;2;07-11-2025;02-12-2025;2N-EKS;2025
+Etape 5.1;74.64;3.21;Ja;Syd;3;22-02-2025;26-02-2025;3S-EKS;2025
+Etape 6.1;871.26;3.04;Ja;Syd;4;26-02-2025;15-04-2025;4S-EKS;2025
+Etape 4;1,322.93;2.13;Ja;Syd;5;15-04-2025;26-06-2025;5S-EKS;2025
+999;989.79;1.17;Ja (delvist);Syd;6;26-06-2025;19-08-2025;6S-EKS;2025
+Etape 3;838.94;1.87;Ja;Nord;3;02-12-2025;17-01-2026;3N-EKS;2026
+Etape 1;818.46;1.63;Ja;Nord;4;17-01-2026;02-03-2026;4N-EKS;2026
+Etape 6.4;1,493.15;1.35;Nej;Nord;5;01-05-2023;21-07-2023;1N-NY;2023
+Område 6;8,795.92;1.34;Nej;Nord;6;07-11-2024;02-03-2026;4N-NY;2026
+Etape 9.3;3,652.55;1.07;Nej;Syd;7;05-06-2024;21-12-2024;4S-NY;2024
+Område 3;8,605.39;0.96;Nej;Syd;8;28-06-2026;11-10-2027;6S-NY;2027
+Etape 9.4;3,750.53;0.88;Nej;Syd;9;13-11-2023;05-06-2024;3S-NY;2024
+Etape 9.1;3,614.90;0.88;Nej;Syd;10;15-04-2022;11-04-2023;1S-NY;2023
+Område 5A;6,475.88;1.33;Nej;Nord;7;02-03-2026;18-02-2027;5N-NY;2027
+Område 2B;8,127.23;0.8;Nej;Syd;11;11-10-2027;27-12-2028;7S-NY;2028
+Etape 9.2;3,963.99;0.77;Nej;Syd;12;11-04-2023;13-11-2023;2S-NY;2023
+Område 2C;289.24;0.75;Ja;Syd;13;19-08-2025;04-09-2025;7S-EKS;2025
+Område 2A;10,161.31;0.7;Nej;Syd;14;21-12-2024;28-06-2026;5S-NY;2026
+Område 10;106.9;0.33;Nybyg;Syd;-;01-01-2025;31-12-2025;Modning;2025
+Etape 6.2;972.73;1.25;Nej;Nord;8;21-07-2023;12-09-2023;2N-NY;2023
+Område 7;7,293.91;1.14;Nej;Nord;9;18-02-2027;22-03-2028;6N-NY;2028
+Område 4;7,739.67;1;Nej;Nord;10;12-09-2023;07-11-2024;3N-NY;2024
+Etape 7;4,087.53;0.96;Ja;Nord;11;02-03-2026;11-10-2026;5N-EKS;2026
+Område 5B;8,232.70;0.79;Nej;Nord;12;22-03-2028;14-06-2029;7N-NY;2029
+Område 8;1,293.47;0.13;Nej;Syd;15;27-12-2028;08-03-2029;8S-NY;2029
+Område 9;202.32;0.45;Nybyg;Nord;13;01-01-2024;31-12-2026;Modning;2026
+Total;96,569.08;1.08;;;;;;;
+;;;;;;;;;
+Fremdrift - meter hovedledning pr. kalenderdag:;;;18.33333333;;;;;;
+Fremdrift - meter hovedledning pr. arbejdsdag:;;;26.82926829;;;;;;
